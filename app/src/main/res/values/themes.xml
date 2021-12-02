@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Caso1AppTV" parent="@style/Theme.Leanback" />
+</resources>
